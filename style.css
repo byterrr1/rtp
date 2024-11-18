@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image:url(imgs/11112.jpg);
+}
+
+section {
+    margin: 30px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: gray;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: gray;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
